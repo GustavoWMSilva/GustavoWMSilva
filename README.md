@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-willian-martins-da-silva-43b643232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eugustavomartins__/)
 
-![principais tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWMSilva&layout=compact&theme=transparent)
+![principais tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWMSilva&layout=compact&theme=theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
