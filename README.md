@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWMSilva&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWMSilva&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoWMSilva&show_icons=false&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
